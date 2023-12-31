@@ -1,0 +1,603 @@
+BillNumber: S-5
+Session: 1
+ParliamentNumber: 44
+Title: An Act to amend the Canadian Environmental Protection Act, 1999, to make related amendments to the Food and Drugs Act and to repeal the Perfluorooctane Sulfonate Virtual Elimination Act
+AssentedYear: 2023
+AssentedMonth: 6
+AssentedDay: 13
+Body:
+  Short Title:
+    Short title
+    This Act may be cited as the Strengthening Environmental Protection for a Healthier Canada Act.
+  Amendments to the Act:
+    The preamble to the Canadian Environmental Protection Act, 1999 is amended by adding the following after the first paragraph:
+    Whereas the Government of Canada recognizes that every individual in Canada has a right to a healthy environment as provided under this Act;
+    The third paragraph of the preamble to the Act is replaced by the following:
+    Whereas the Government of Canada acknowledges the need to control and manage pollutants and wastes if their release into the environment cannot be prevented;
+    The sixth paragraph of the preamble to the French version of the Act is replaced by the following:
+    qu’il s’engage à adopter le principe de précaution, si bien qu’en cas de risques de dommages graves ou irréversibles, l’absence de certitude scientifique absolue ne doit pas servir de prétexte pour remettre à plus tard l’adoption de mesures effectives visant à prévenir la dégradation de l’environnement;
+    The preamble to the Act is amended by adding the following after the eighth paragraph:
+    Whereas the Government of Canada is committed to implementing the United Nations Declaration on the Rights of Indigenous Peoples, including free, prior and informed consent;
+    The preamble to the Act is amended by adding the following after the ninth paragraph:
+    Whereas the Government of Canada recognizes the importance of considering vulnerable populations in assessing whether substances are toxic or capable of becoming toxic;
+    Whereas the Government of Canada recognizes the importance of minimizing the risks posed by exposure to toxic substances and the cumulative effects of toxic substances;
+    The preamble to the Act is amended by adding the following after the 10th paragraph:
+    Whereas the Government of Canada recognizes the role of science and Indigenous knowledge in the process of making decisions related to the protection of the environment and human health, as well as the importance of promoting the development and timely incorporation of scientifically justified alternative methods and strategies in the testing and assessment of substances to replace, reduce or refine the use of vertebrate animals;
+    The 13th paragraph of the preamble to the Act is replaced by the following:
+    Whereas the Government of Canada will endeavour to remove threats to biological diversity through pollution prevention as well as the control and management of the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes;
+    Whereas the Government of Canada recognizes the importance of encouraging the progressive substitution of substances, processes and technologies with alternatives that are safer for the environment or human health, when they are economically and technically viable;
+    Whereas the Government of Canada is committed to openness, transparency and accountability in respect of the protection of the environment and human health;
+    Whereas the Government of Canada recognizes the importance of Canadians having information, including by means of the packaging and labelling of products, regarding the risks posed by toxic substances to the environment or to human health;
+    Whereas the Government of Canada is committed to implementing a risk-based approach to the assessment and management of chemical substances;
+    Paragraph 2(1)(a) of the Act is replaced by the following:
+    exercise its powers in a manner that
+    protects the environment and human health, including the health of vulnerable populations,
+    applies the precautionary principle, which provides that the lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation if there are threats of serious or irreversible damage, and
+    promotes and reinforces enforceable pollution prevention approaches;
+    Subsection 2(1) of the Act is amended by adding the following after paragraph (a.1):
+    protect the right of every individual in Canada to a healthy environment as provided under this Act, subject to any reasonable limits;
+    in relation to paragraph (a.2), uphold principles such as principles of environmental justice — including the avoidance of adverse effects that disproportionately affect vulnerable populations — the principle of non-regression and the principle of intergenerational equity;
+    Subsection 2(1) of the Act is amended by adding the following after paragraph (k):
+    encourage the development and timely incorporation of scientifically justified alternative methods and strategies in the testing and assessment of substances to replace, reduce or refine the use of vertebrate animals;
+    The portion of the definition substance in subsection 3(1) of the Act after paragraph (d) and before paragraph (e) is replaced by the following:
+    and, except for the purposes of sections 66 to 66.2, 80 to 89 and 104 to 115, includes
+    Subsection 3(1) of the Act is amended by adding the following in alphabetical order:
+    healthy environment means an environment that is clean, healthy and sustainable. (environnement sain)
+    precautionary principle means Principle 15 of the 1992 Rio Declaration on Environment and Development, which provides that the lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation if there are threats of serious or irreversible damage. (principe de précaution)
+    vulnerable population means a group of individuals within the Canadian population who, due to greater susceptibility or greater exposure, may be at an increased risk of experiencing adverse health effects from exposure to substances. (population vulnérable)
+    Implementation framework
+    The Act is amended by adding the following after the heading of Part 1:
+    For the purposes of paragraph 2(1)(a.2), the Ministers shall, within two years after the day on which this section comes into force, develop an implementation framework to set out how the right to a healthy environment will be considered in the administration of this Act.
+    Without limiting the generality of subsection (1), the implementation framework shall set out
+    the process under subsection 76.1(1) in respect of the protection of the right to a healthy environment.
+    The implementation framework, in a manner consistent with the purposes of this Act, shall, among other things, elaborate on
+    the principles to be considered in the administration of this Act, such as principles of environmental justice — including the avoidance of adverse effects that disproportionately affect vulnerable populations — the principle of non-regression and the principle of intergenerational equity, according to which it is important to meet the needs of the present generation without compromising the ability of future generations to meet their own needs;
+    research, studies or monitoring activities to support the protection of the right to a healthy environment referred to in paragraph 2(1)(a.2);
+    the relevant factors to be taken into account in interpreting and applying that right and in determining the reasonable limits to which it is subject, including social, health, scientific and economic factors; and
+    mechanisms to support the protection of that right.
+    In developing the implementation framework, the Ministers shall consult any interested persons.
+    The Minister shall publish the implementation framework in the manner that the Minister considers appropriate.
+    The Minister shall include in the annual report required by section 342 a report on the implementation of the framework.
+    Contents of Environmental Registry
+    The portion of subsection 13(1) of the Act before paragraph (a) is replaced by the following:
+    The Environmental Registry shall contain notices and other documents published or made publicly available by the Ministers or either Minister under this Act, and shall also include, subject to the Access to Information Act and the Privacy Act,
+    Subsection 13(2) of the Act is replaced by the following:
+    The Minister may determine the form of the Environmental Registry and how it is to be kept, so long as the registry is publicly accessible and searchable and is in electronic form.
+    Additional rights
+    Section 15 of the Act is replaced by the following:
+    The rights conferred by this Part are in addition to the right to request, under section 76, that a substance be assessed, the right to file a notice of objection under Parts 1, 7 and 11 and the right to request under Parts 7 and 11 that a board of review be established under section 333.
+    Protection of right to healthy environment
+    Section 44 of the Act is amended by adding the following after subsection (3):
+    The Ministers shall conduct research, studies or monitoring activities to support the Government of Canada in protecting the right to a healthy environment referred to in paragraph 2(1)(a.2).
+    Vulnerable populations
+    Paragraph 45(a) of the Act is replaced by the following:
+    conduct research and studies, including biomonitoring surveys, relating to the role of substances in illnesses or in health problems;
+    Section 45 of the Act is renumbered as subsection 45(1) and is amended by adding the following:
+    For greater certainty, the research and studies referred to in paragraph (1)(a) may relate to vulnerable populations.
+    Paragraph 46(1)(a) of the Act is replaced by the following:
+    substances specified in the plan developed under section 73;
+    Subsection 46(1) of the Act is amended by adding the following after paragraph (e):
+    products that contain a substance that is toxic under section 64 or that may become toxic, or products that may release such a substance into the environment;
+    Subsection 46(1) of the Act is amended by adding the following after paragraph (k):
+    activities that may contribute to pollution;
+    hydraulic fracturing;
+    tailings ponds;
+    Requirement for pollution prevention plans
+    Subsection 56(1) of the Act is replaced by the following:
+    The Minister may, at any time, publish in the Canada Gazette and in any other manner that the Minister considers appropriate a notice requiring any person or class of persons described in the notice to prepare and implement a pollution prevention plan in respect of
+    a substance or group of substances specified on the list of toxic substances in Schedule 1;
+    a substance or group of substances with respect to which subsection 166(1) or 176(1) applies; or
+    a product that contains a substance specified on the list of toxic substances in Schedule 1 or that may release such a substance into the environment.
+    The notice may include a requirement that the plan prioritize the identification, development or use of safer or more sustainable alternatives to the substance, group of substances or product.
+    Paragraph 56(2)(a) of the Act is replaced by the following:
+    the substance, group of substances or product in relation to which the plan is to be prepared;
+    Subsection 56(4) of the Act is replaced by the following:
+    The Minister shall publish in the Environmental Registry and in any other manner that the Minister considers appropriate a notice stating the name of any person for whom an extension is granted, whether the extension is for the preparation or the implementation of the plan, and the duration of the period of the extension.
+    Section 56 of the Act is amended by adding the following after subsection (5):
+    A notice under subsection (1) may include a requirement that the person to whom the notice is directed file with the Minister, within the periods specified in the notice, written reports on their progress in implementing the plan.
+    Requirement to submit certain plans
+    Subsection 60(1) of the Act is replaced by the following:
+    The Minister may publish in the Canada Gazette and in any other manner that the Minister considers appropriate a notice requiring any person or class of persons described in the notice who are required to prepare and implement a pollution prevention plan under section 56 to submit, within the period specified by the Minister, the plan or any part of the plan for the purpose of determining and assessing preventive or control actions in respect of a substance, group of substances or product.
+    2017, c. 26, subpar. 63(d)(iii)(E)
+    Sections 65 and 65.1 of the Act are repealed.
+    Domestic Substances List
+    The portion of subsection 66(1) of the Act before paragraph (a) is replaced by the following:
+    The Minister shall, for the purpose of section 81, maintain a list to be known as the Domestic Substances List and, subject to subsection 66.2(1), the List shall specify all substances that the Minister is satisfied were, between January 1, 1984 and December 31, 1986,
+    Paragraph 66(2)(a) of the Act is replaced by the following:
+    the substances referred to in subsection (1), unless the substance has been deleted from the Domestic Substances List under subsection 66.2(1); and
+    Domestic Substances List — Food and Drugs Act
+    The Act is amended by adding the following after section 66:
+    The Minister may, for the purpose of section 81, add a substance to the Domestic Substances List if
+    the substance was included on the version of the Revised In Commerce List that was prepared by the Minister of Health after the end, on November 3, 2019, of acceptance of substance nominations to that List and that is referred to in the Canada Gazette, Part I, Volume 152, Number 44, as the static list;
+    the substance is not referred to in Annex I to the notice entitled “Removal of substances with no commercial activity from the Revised In Commerce List” published in the Canada Gazette, Part I, Volume 156, Number 8; and
+    no conditions specified under paragraph 84(1)(a) in respect of the substance are in effect.
+    If the substance appears on the Non-domestic Substances List, the Minister shall delete it from that List.
+    The Minister may, by order, designate any person or class of persons to exercise the powers set out in subsection (1).
+    If the Minister is satisfied that a substance referred to in subsection 66(1) that is specified on the Domestic Substances List — or a substance added to the List under subsection 66.1(1) or 87(1) or (5) — is not being manufactured in Canada, imported into Canada, in Canadian commerce or used for commercial manufacturing purposes in Canada, the Minister may delete the substance from the List and may add it to the Non-domestic Substances List.
+    Before deleting a substance from the Domestic Substances List under subsection (1), the Minister shall publish in the Canada Gazette and in any other manner that the Minister considers appropriate a notice indicating the Minister’s intention to delete it from the List.
+    Within 60 days after the publication of the notice, any person may file written comments with the Minister.
+    The Minister may, by order, designate any person or class of persons to exercise the powers and perform the duties and functions set out in this section.
+    Paragraph 67(1)(a) of the Act is replaced by the following:
+    respecting a property or characteristic of a substance, including persistence, bioaccumulation, carcinogenicity, mutagenicity and reproductive toxicity;
+    Subsection 67(1) of the Act is amended by striking out “and” at the end of paragraph (c) and by replacing paragraph (d) with the following:
+
+    respecting the conditions, test procedures and laboratory practices to be followed for analysing, testing or measuring the property or characteristic, including conditions, test procedures and laboratory practices to be followed for replacing, reducing or refining the use of vertebrate animals; and
+    respecting, for the purpose of subsection 77(3), the classification of a substance as a substance that poses the highest risk.
+    Research, investigation and evaluation
+    The portion of section 68 of the Act before subparagraph (a)(i) is replaced by the following:
+    For the purpose of assessing whether a substance is toxic or is capable of becoming toxic — or for the purpose of assessing whether to control, or the manner in which to control, a substance, a product that contains a substance or a product that may release a substance into the environment — including a substance specified on the list of toxic substances in Schedule 1, either Minister may
+    collect or generate data and conduct investigations respecting any matter in relation to the substance or product including
+    Paragraph 68(a) of the Act is amended by adding the following after subparagraph (iii):
+    whether exposure to the substance in combination with exposure to other substances has the potential to cause cumulative effects,
+    whether there is a vulnerable population or environment in relation to the substance,
+    Subparagraphs 68(a)(v) and (vi) of the Act are replaced by the following:
+    the ability of the substance to cause delayed or latent effects over the lifetime of an organism, including carcinogenic, mutagenic or neurotoxic effects,
+    the ability of the substance to cause survival impairment of an organism,
+    the ability of the substance to disrupt the reproductive system or endocrine system of an organism,
+    Subparagraph 68(a)(xii) of the Act is replaced by the following:
+    the existence, development and use of safer or more sustainable alternatives to the substance or product,
+    Paragraph 68(a) of the Act is amended by striking out “and” at the end of subparagraph (xiii), by adding “and” at the end of subparagraph (xiv) and by adding the following after subparagraph (xiv):
+    the manner in which the public may be provided with information regarding the substance or product, including, in the case of a product, by labelling it;
+    Paragraph 68(c) of the Act is replaced by the following:
+    provide information and make recommendations respecting any matter in relation to the substance or product, including measures to control the presence of the substance or product in the environment.
+    Restriction — vertebrate animals
+    The Act is amended by adding the following after section 68:
+    The Ministers shall, to the extent practicable, use scientifically justified alternative methods and strategies to replace, reduce or refine the use of vertebrate animals in the generation of data and the conduct of investigations under paragraph 68(a).
+    For the purposes of subsection (1), methods and strategies to refine the use of vertebrate animals include minimizing pain and distress caused to vertebrate animals used in the generation of data and the conduct of investigations under paragraph 68(a).
+    Saving
+    Subsection 69(2.1) of the Act is replaced by the following:
+    Nothing in subsection (2) shall prevent either Minister or both Ministers from exercising the powers under subsection (1) at any time after the 60th day following the day on which an offer is made under subsection (2).
+    Subsection 69(3) of the English version of the Act is replaced by the following:
+    Guidelines issued under this section shall be made available to the public, and the Minister who issued the guidelines shall give notice of them in the Canada Gazette and in any other manner that that Minister considers appropriate.
+    Notice requiring information, samples or testing
+    The portion of subsection 71(1) of the Act before paragraph (b) is replaced by the following:
+    The Minister may, for the purpose of assessing whether a substance is toxic or is capable of becoming toxic — or for the purpose of assessing whether to control, or the manner in which to control, a substance, a product that contains a substance or a product that may release a substance into the environment — including a substance specified on the list of toxic substances in Schedule 1,
+    publish in the Canada Gazette and in any other manner that the Minister considers appropriate a notice requiring any person who is described in the notice and who is or was within the period specified in the notice engaged in any activity involving the substance or product, as the case may be, to notify the Minister that the person is or was during that period engaged in that activity;
+    Paragraph 71(1)(c) of the Act is replaced by the following:
+    subject to section 72, send a written notice to any person who is described in the notice and who is or was within the period specified in the notice engaged in any activity involving the importation or manufacturing of the substance or product, as the case may be, requiring the person to conduct toxicological or other tests that the Minister may specify in the notice and submit the results of the tests to the Minister.
+    The portion of subsection 71(2) of the English version of the Act before paragraph (a) is replaced by the following:
+    A notice published under paragraph (1)(b) may require any information and samples, including
+    Paragraph 71(2)(a) of the Act is replaced by the following:
+    in respect of a substance, available toxicological information, available monitoring information, samples of the substance and information on the quantities, composition, uses and distribution of the substance;
+    in respect of a product that contains a substance or that may release a substance into the environment, information on the quantities, composition, manufacturing, processing, packaging, labelling, uses and distribution of the product;
+    Subsection 71(2) of the Act is amended by adding “and” at the end of paragraph (b) and by adding the following after that paragraph:
+    information on the method used to quantify any information that is provided.
+    Section 71 of the Act is amended by adding the following after subsection (2):
+    A notice published under paragraph (1)(b) may specify the method to be used to quantify any information that is to be provided and the manner in which that information and any sample is to be provided.
+    A notice sent under paragraph (1)(c) may, among other things, require the person to provide any information and samples, including
+    in respect of a substance or of a product that contains a substance or that may release a substance into the environment, toxicological information, monitoring information, test samples and information on the quantities, composition, uses and distribution of the substance or product; and
+    information on the methods, test procedures and laboratory practices followed for performing any required test and on the conditions under which those tests are conducted.
+    The notice sent under paragraph (1)(c) may, among other things, specify
+    the conditions, methods, test procedures and laboratory practices to be followed for conducting sampling, analyses, measurements, quantification or monitoring as part of any required test;
+    the conditions, methods, test procedures and laboratory practices to be followed to replace, reduce or refine the use of vertebrate animals;
+    the manner in which the test results are to be submitted;
+    the method to be used to quantify any information that is to be provided; and
+    the manner in which that information and any sample is to be provided.
+    Subsection 71(4) of the English version of the Act is replaced by the following:
+    Despite subsection (3), the Minister may, on request in writing from any person to whom a notice referred to in any of paragraphs (1)(a) to (c) is directed or sent, extend the time or times within which the person shall comply with the notice.
+    Exercise of power under paragraph 71(1)(c)
+    Sections 72 to 74 of the Act are replaced by the following:
+    The Minister may not exercise the power under paragraph 71(1)(c) in relation to a substance, a product that contains a substance or a product that may release a substance into the environment unless the Ministers have reason to suspect that the substance is toxic or capable of becoming toxic or it has been determined under this Act that the substance is toxic or capable of becoming toxic.
+    The Ministers shall, within two years after the day on which this section receives royal assent, develop and publish a plan with timelines
+    that specifies the substances to which the Ministers are satisfied priority should be given in assessing whether they are toxic or capable of becoming toxic;
+    that specifies the activities or initiatives in relation to assessing, controlling or otherwise managing the risks to the environment or to human health posed by substances that are or will be undertaken under an Act of Parliament for whose administration either Minister is responsible and which the Ministers are of the opinion should be prioritized; and
+    that specifies activities or initiatives to promote the development and timely incorporation of scientifically justified alternative methods and strategies in the testing and assessment of substances to replace, reduce or refine the use of vertebrate animals.
+    In developing a proposed plan, and in implementing the plan, the Ministers
+    may consult with the Committee, a government department or agency, aboriginal people, representatives of industry and labour and municipal authorities or with persons interested in the quality of the environment or the preservation and improvement of public health;
+    shall consider whether assessing substances by class is more advantageous than assessing them individually, with a view toward avoiding substitutions within the class that may be harmful; and
+    shall take into account the matters referred to in paragraph 68(a), including the manner in which the public may be provided with information regarding substances or products including, in the case of products, by labelling them.
+    The Minister shall publish the proposed plan in the Environmental Registry and shall give notice in the Canada Gazette and in any other manner that the Minister considers appropriate of the proposed plan’s availability.
+    Within 60 days after the publication of the notice, any person may file with the Minister written comments on the proposed plan.
+    The Ministers shall take into account the comments and may amend the proposed plan in any manner they consider appropriate based on those comments.
+    The Minister shall publish the plan in the Canada Gazette and in any other manner that the Minister considers appropriate.
+    The Ministers shall review the plan within eight years after it is published and every eight years after that.
+    If after reviewing the plan the Ministers propose to amend it, subsections (2) to (7) apply to the proposed amended plan.
+    The Ministers shall include in the annual report required by section 342 a report on the progress made in assessing the substances specified in the plan developed under section 73 and in respect of any activities or initiatives specified in the plan.
+    List of substances capable of becoming toxic
+    Sections 76 and 76.1 of the Act are replaced by the following:
+    The Minister shall compile and may amend from time to time a list that specifies substances that the Ministers have reason to suspect are capable of becoming toxic or that have been determined to be capable of becoming toxic.
+    The List may include information regarding a substance specified on the List, including an indication that
+    the substance is specified on the Domestic Substances List with an indication that subsection 81(3) or 106(3) applies with respect to the substance; or
+    the Minister has published a notice in the Canada Gazette indicating that subsection 81(4) or 106(4) applies with respect to the substance.
+    The Minister shall delete a substance from the List, as well as any information regarding the substance that is specified on the List, if
+    an order is made under subsection 90(1) adding the substance to the list of toxic substances in Schedule 1; or
+    the Ministers no longer have reason to suspect that the substance is capable of becoming toxic.
+    The Minister shall publish the List and any amendments to it in the Environmental Registry and in any other manner that the Minister considers appropriate.
+    The List is not a statutory instrument as defined in subsection 2(1) of the Statutory Instruments Act.
+    Any person may file in writing with the Minister a request that the Ministers assess a substance to determine whether it is toxic or capable of becoming toxic.
+    The Ministers shall consider the request and decide whether to add the substance to the plan developed under section 73 or deny the request.
+    Within 90 days after the day on which the request is filed, the Minister shall inform the person who filed the request of the decision, how the Ministers intend to deal with it and the reasons for dealing with it in that manner.
+    A request shall be filed in the form and manner and shall contain the information specified by the Minister.
+    The Ministers shall apply a weight of evidence approach and the precautionary principle when they are conducting and interpreting the results of
+    an assessment conducted under this Part, other than under section 83, in order to determine whether a substance is toxic or capable of becoming toxic; or
+    a review of a decision of another jurisdiction under subsection 75(3) that, in their opinion, is based on scientific considerations and is relevant to Canada.
+    When the Ministers are conducting and interpreting the results of an assessment or review referred to in subsection (1), they shall consider available information on any vulnerable population or environment in relation to the substance and on the cumulative effects on human health and the environment that may result from exposure to the substance in combination with exposure to other substances.
+    Publication after assessment or review
+    Subsections 77(1) to (4) of the Act are replaced by the following:
+    If the Ministers have conducted an assessment under this Part, other than under section 83, to determine whether a substance is toxic or capable of becoming toxic or a review of a decision of another jurisdiction under subsection 75(3) that, in their opinion, is based on scientific considerations and is relevant to Canada, the Ministers shall publish in the Canada Gazette, and either Minister may publish in any other manner that that Minister considers appropriate,
+    a statement indicating one of the measures referred to in subsection (2) that the Ministers propose to take and a summary of the scientific considerations on the basis of which the measure is proposed; and
+    if the measure is one referred to in paragraph (2)(c) or (d) and the Ministers are of the opinion that the substance is regulated by any other Act of Parliament, or a regulation or instrument made under that Act, in a manner that provides sufficient protection to the environment and human health, a statement made jointly by the Minister and the Minister responsible for the administration of that Act identifying the Act, regulation or instrument and indicating the manner in which the substance is regulated by it.
+    Subject to subsection (3), for the purposes of subsection (1), the Ministers shall propose one of the following measures:
+    taking no further action in respect of the substance;
+    unless the substance is already on the List referred to in section 75.1, adding the substance to that List;
+    recommending that the substance be added to Part 1 of the list of toxic substances in Schedule 1; or
+    recommending that the substance be added to Part 2 of the list of toxic substances in Schedule 1.
+    The Ministers shall propose to take the measure referred to in paragraph (2)(c) if the substance is determined to be toxic and the Ministers are satisfied that
+    the substance may have a long-term harmful effect on the environment and
+    is inherently toxic to human beings or non-human organisms, as determined by laboratory or other studies,
+    is persistent and bioaccumulative in accordance with the regulations,
+    is present in the environment primarily as a result of human activity, and
+    is not a naturally occurring radionuclide or a naturally occurring inorganic substance;
+    the substance may constitute a danger in Canada to human life or health and is, in accordance with the regulations, carcinogenic, mutagenic or toxic for reproduction; or
+    the substance is, in accordance with the regulations, a substance that poses the highest risk.
+    Subsections 77(6) to (8) of the Act are replaced by the following:
+    After taking into consideration in an expeditious manner the comments filed under subsection (5), the Ministers shall publish in the Canada Gazette
+    a summary of the assessment or of the review, as the case may be, referred to in subsection (1);
+    a statement indicating the measure that the Ministers propose to take; and
+    if the measure is one referred to in paragraph (2)(c) or (d),
+    a statement indicating the manner in which a proposed regulation or instrument respecting preventive or control actions in relation to the substance is to be developed under this or any other Act of Parliament, or
+    if the Ministers are of the opinion that the substance is regulated by any other Act of Parliament, or a regulation or instrument made under that Act, in a manner that provides sufficient protection to the environment and human health, a statement made jointly by the Minister and the Minister responsible for the administration of that Act identifying the Act, regulation or instrument and indicating the manner in which the substance is regulated by it.
+    If the Ministers publish a statement under paragraph (6)(b) in respect of a substance already specified on the list of toxic substances in Schedule 1, paragraph (6)(c) does not apply.
+    If more than two years have elapsed after the publication of a statement under paragraph (1)(a) without the Ministers having published a statement under paragraph (6)(b), the Minister shall publish in the Environmental Registry a statement made jointly by the Ministers indicating the reasons for the delay and an estimated time frame within which the statement under paragraph (6)(b) is to be published.
+    Subsection 77(9) of the Act is replaced by the following:
+    When the Ministers publish a statement under paragraph (6)(b) indicating that the measure that they propose to take is a recommendation that the substance be added to Part 1 or 2 of the list of toxic substances in Schedule 1, the Ministers shall make a recommendation for an order under subsection 90(1), and, if the substance is already specified in the other Part, the Ministers shall make a recommendation for an order under subsection 90(2).
+    Subsequent regulations or instruments
+    Sections 78 and 79 of the Act are replaced by the following:
+    If the Ministers publish a statement under subparagraph 77(6)(c)(i) indicating that more than one proposed regulation or instrument respecting preventive or control actions in relation to a substance is to be developed, the Minister shall, when the first regulation or instrument respecting preventive or control actions in relation to the substance is published under paragraph 92(1)(a) or a statement identifying the first such regulation or instrument is published under paragraph 92(1)(b) or (c), as the case may be, publish in the Environmental Registry and in any other manner that the Minister considers appropriate a statement respecting the development of the subsequent proposed regulations or instruments that specifies, to the extent possible, an estimated time frame within which those proposed regulations or instruments are to be developed.
+    If the Ministers amend the statement respecting the development of the subsequent proposed regulations or instruments, the Minister shall publish that statement as amended and the reasons for the amendment in the Environmental Registry and in any other manner that the Minister considers appropriate.
+    The Minister shall include in the annual report required by section 342 a report on the progress made in developing any subsequent proposed regulations or instruments.
+    The report on progress referred to in subsection (3) shall include an update on estimated timelines and reasons for any delay.
+    Expiry of prohibition
+    Subsection 84(4) of the Act is replaced by the following:
+    Any prohibition on the manufacture or importation of a substance imposed under paragraph (1)(b) expires two years after the day on which it is imposed unless, before the expiry of the two years, there is published in the Canada Gazette
+    a regulation respecting preventive or control actions, in relation to the substance, that is proposed to be made under this Act; or
+    a statement, identifying a regulation respecting preventive or control actions in relation to the substance that is proposed to be made under any other Act of Parliament,
+    made jointly by the Minister and the Minister responsible for the administration of the Act of Parliament under which the regulation is to be made, if the Act is not an Act referred to in subparagraph (ii), or
+    made by the Minister of Health, if the Act of Parliament is one for whose administration that Minister is responsible.
+    If such a proposed regulation — or such a statement identifying a proposed regulation — is so published, the prohibition expires on the day on which the regulation comes into force.
+    Contents of notice
+    Subsections 85(2) and (3) of the Act are replaced by the following:
+    A notice referred to in subsection (1)
+    shall indicate, by inclusion or exclusion, the significant new activities in relation to the substance with respect to which subsection 81(4) is to apply and, if regulations in respect of those significant new activities are not made under paragraphs 89(1)(c), (d) and (g), specify the information to be provided to the Minister under that subsection, the date on or before which it is to be provided and the period within which it is to be assessed under section 83; and
+    may specify for the purpose of subsection 86(2) classes of persons who are not required to be notified under subsection 86(1) with respect to the substance.
+    The Minister may, by notice published in the Canada Gazette, specify for the purpose of subsection 86(2) classes of persons who are not required to be notified under subsection 86(1) with respect to a substance for which a notice was published under subsection (1), if no such class was specified in that notice.
+    The Minister may, by notice published in the Canada Gazette,
+    vary the significant new activities in relation to a substance for which a notice has been published under subsection (1) or vary the information to be provided to the Minister under subsection 81(4), the date on or before which that information is to be provided or the period within which it is to be assessed under section 83;
+    indicate that subsection 81(4) no longer applies with respect to the substance;
+    vary the classes of persons, if any, that are specified for the purpose of subsection 86(2) in a notice published under subsection (1) or (3); or
+    indicate that a class of persons is no longer specified for the purpose of subsection 86(2).
+    Exception
+    Section 86 of the Act is renumbered as subsection 86(1) and is amended by adding the following:
+    A person who is within a class of persons that is specified in a notice published under subsection 85(1) or (3) — or, if the class is varied by a notice published under subsection 85(4), within the class as varied — is not required to be notified under subsection (1) with respect to the substance to which the notice relates.
+    Significant new activity
+    Subsections 87(3) and (4) of the Act are replaced by the following:
+    If a substance is on the Domestic Substances List or is to be added to the List under subsection (1) or 66.1(1), the Minister may amend the List to indicate that subsection 81(3) applies with respect to the substance.
+    An amendment referred to in subsection (3)
+    shall indicate, by inclusion or exclusion, the significant new activities in relation to the substance with respect to which subsection 81(3) is to apply and, if regulations in respect of those significant new activities are not made under paragraphs 89(1)(c), (d) and (g), specify the information to be provided to the Minister under that subsection, the date on or before which it is to be provided and the period within which it is to be assessed under section 83; and
+    may specify for the purpose of subsection 87.1(2) classes of persons who are not required to be notified under subsection 87.1(1) with respect to the substance.
+    The Minister may amend the Domestic Substances List in respect of a substance with respect to which subsection 81(3) applies
+    to vary the significant new activities in relation to the substance or vary the information to be provided to the Minister under subsection 81(3), the date on or before which that information is to be provided or the period within which it is to be assessed under section 83;
+    to indicate that subsection 81(3) no longer applies;
+    to specify classes of persons for the purpose of subsection 87.1(2), if no such classes are specified with respect to the substance;
+    to vary the classes of persons, if any, that are specified for the purpose of subsection 87.1(2); or
+    to delete any class of persons that is specified for the purpose of subsection 87.1(2).
+    Notification of persons required to comply
+    The Act is amended by adding the following after section 87:
+    If a substance is specified on the Domestic Substances List with an indication that subsection 81(3) applies with respect to the substance, every person who transfers the physical possession or control of the substance shall notify all persons to whom the possession or control is transferred of the obligation to comply with that subsection.
+    A person is not required to be notified under subsection (1) with respect to a substance if they are within a class of persons that is specified on the Domestic Substances List in respect of the substance for the purpose of this subsection.
+    Paragraph 89(1)(k) of the Act is replaced by the following:
+    generally for carrying out the purposes and provisions of sections 66 to 66.2 and 80 to 88.
+    Addition to list of toxic substances
+    Subsections 90(1) to (2) of the Act are replaced by the following:
+    Subject to subsection (3), the Governor in Council may, if satisfied that a substance is toxic, on the recommendation of the Ministers, make an order adding the substance to Part 1 or 2 of the list of toxic substances in Schedule 1.
+    In developing a proposed regulation or instrument respecting preventive or control actions, including actions that lead to the use of safer or more sustainable alternatives for the environment or human health, in relation to a substance specified on the list of toxic substances in Schedule 1, the Ministers shall give priority to pollution prevention actions and, in particular, in the case of a substance specified in Part 1 of the list of toxic substances in that Schedule, to the total, partial or conditional prohibition of activities in relation to the substance or of releases of the substance into the environment.
+    For the purposes of subsection (1.1), the Ministers shall, in respect of a substance specified in Part 1 of the list of toxic substances in Schedule 1, consider whether the activity or release can be undertaken in a manner that minimizes or eliminates any harmful effect on the environment or human health and whether there are feasible alternatives to the substance.
+    Subject to subsection (3), the Governor in Council may, if satisfied that the inclusion of a substance specified in Part 1 or 2 of the list of toxic substances in Schedule 1 is no longer necessary, on the recommendation of the Ministers, make an order deleting the substance from that Part and repealing the regulations made under section 93 with respect to the substance.
+    2017, c. 26, subpar. 63(d)(iv)(E)
+    Subsections 91(1) to (5) of the Act are replaced by the following:
+    Subject to subsections (2), (6) and (7), within two years after the publication of the Ministers’ statement under paragraph 77(6)(b) indicating that the measure that they propose to take, as confirmed or amended, in respect of a substance is a recommendation that the substance be added to Part 1 or 2 of the list of toxic substances in Schedule 1,
+    the Minister shall publish in the Canada Gazette
+    a regulation or instrument respecting preventive or control actions, in relation to the substance, that is proposed to be made under this Act, other than an instrument that may be made only by the Minister of Health, or
+    a statement — identifying a regulation or instrument respecting preventive or control actions, in relation to the substance, that is proposed to be made under any other Act of Parliament other than an Act for whose administration the Minister of Health is responsible — made jointly by the Minister and the Minister responsible for the administration of the Act under which the regulation or instrument is to be made; or
+    the Minister of Health shall publish in the Canada Gazette
+    an instrument respecting preventive or control actions, in relation to the substance, that is proposed to be made by that Minister under this Act, or
+    a statement identifying a regulation or instrument respecting preventive or control actions in relation to the substance that is proposed to be made under any other Act of Parliament for whose administration that Minister is responsible.
+    Subsection (1) does not apply in respect of
+    a substance specified in Part 1 or 2 of the list of toxic substances in Schedule 1 in relation to which the measure the Ministers propose to take, as confirmed or amended, is a recommendation that the substance be added to the other Part; or
+    a substance in relation to which a statement has been published under subparagraph 77(6)(c)(ii).
+    Publication of preventive or control actions
+    Subsection 92(1) of the Act is replaced by the following:
+    Subject to subsection (2), within 18 months after the day on which a proposed regulation or instrument is published under subparagraph 91(1)(a)(i) or (b)(i) or subsection 91(6) or a statement identifying a proposed regulation or instrument is published under subparagraph 91(1)(a)(ii) or (b)(ii), unless a material substantive change is required to be made to that proposed regulation or instrument,
+    a regulation or instrument respecting preventive or control actions in relation to a substance shall be made under this Act and published in the Canada Gazette;
+    the Minister shall publish in the Canada Gazette a statement — identifying a regulation or instrument respecting preventive or control actions in relation to a substance that was made under any other Act of Parliament — made jointly by the Minister and the Minister responsible for the administration of the Act under which the regulation or instrument is made; or
+    the Minister of Health shall publish in the Canada Gazette a statement identifying a regulation or instrument respecting preventive or control actions in relation to a substance that was made under any other Act of Parliament for whose administration that Minister is responsible.
+    Section 92.1 of the Act is repealed.
+    Regulations
+    The portion of subsection 93(1) of the Act before paragraph (a) is replaced by the following:
+    Subject to subsections (3) and (4), the Governor in Council may, on the recommendation of the Ministers, make regulations with respect to a substance specified on the list of toxic substances in Schedule 1, including regulations providing for, or imposing requirements respecting,
+    Paragraphs 93(1)(f) and (g) of the Act are replaced by the following:
+    the purposes for which the substance, a product that contains the substance or a product that may release the substance into the environment may be imported, exported, manufactured, processed, used, offered for sale or sold;
+    the manner in which and conditions under which the substance, a product that contains the substance or a product that may release the substance into the environment may be imported, exported, manufactured, processed or used;
+    Paragraph 93(1)(i) of the Act is replaced by the following:
+    the quantities or concentrations of the substance that may be imported or exported;
+    Paragraphs 93(1)(l) to (s) of the Act are replaced by the following:
+    the total, partial or conditional prohibition of the manufacture, use, processing, sale, offering for sale, import or export of the substance, a product that contains the substance or a product that may release the substance into the environment;
+    the total, partial or conditional prohibition of the manufacture, import or export of a product that is intended to contain the substance;
+    the quantity or concentration of the substance that may be contained in any product manufactured, imported, exported, offered for sale or sold in Canada, or that any such product may release into the environment;
+    the manner in which, conditions under which and the purposes for which the substance, a product that contains the substance or a product that may release the substance into the environment may be advertised or offered for sale;
+    the manner in which and conditions under which the substance, a product that contains the substance or a product that may release the substance into the environment may be stored, displayed, handled, transported or offered for transport;
+    the packaging and labelling of the substance, a product that contains the substance or a product that may release the substance into the environment;
+    the manner, conditions, places and method of disposal of the substance, a product that contains the substance or a product that may release the substance into the environment, including standards for the construction, maintenance and inspection of disposal sites;
+    the submission to the Minister, on request or at any prescribed times, of information relating to the substance, a product that contains the substance or a product that may release the substance into the environment;
+    Paragraphs 93(1)(u) and (v) of the Act are replaced by the following:
+    the conduct of sampling, analyses, tests, measurements or monitoring of the substance, a product that contains the substance or a product that may release the substance into the environment and the submission of the results to the Minister;
+    the submission of samples to the Minister of the substance, a product that contains the substance or a product that may release the substance into the environment;
+    Paragraph 93(1)(w) of the English version of the Act is replaced by the following:
+    the conditions, test procedures and laboratory practices to be followed for conducting sampling, analyses, tests, measurements or monitoring of the substance, a product that contains the substance or a product that may release the substance into the environment;
+    Subsection 93(5) of the Act is replaced by the following:
+    Regulations made under this section may authorize the Minister, in the circumstances and subject to the conditions and limits that may be specified in the regulations, to issue, amend, suspend and revoke permits and other authorizations in relation to any matter that is the subject of the regulations and to set their terms and conditions.
+    A permit or other authorization issued under regulations made under this section is not a statutory instrument as defined in subsection 2(1) of the Statutory Instruments Act.
+    Interim orders
+    Subsection 94(1) of the Act is replaced by the following:
+    The Minister may make an interim order in respect of a substance and the order may contain any provision that may be contained in a regulation made under subsection 93(1) if
+    the substance
+    is not specified on the list of toxic substances in Schedule 1 and the Ministers believe that it is toxic or capable of becoming toxic, or
+    is specified on that list and the Ministers believe that it is not adequately regulated; and
+    the Ministers believe that immediate action is required to deal with a significant danger to the environment or to human life or health.
+    Paragraph 94(5)(b) of the Act is replaced by the following:
+    if the order was made in respect of a substance that was not specified on the list of toxic substances in Schedule 1, that the substance be added to Part 1 or 2 of that list under section 90.
+    Report and remedial measures
+    The portion of subsection 95(1) of the Act before paragraph (a) is replaced by the following:
+    If there occurs or is a likelihood of a release into the environment of a substance specified on the list of toxic substances in Schedule 1 in contravention of a regulation made under section 93 or an order made under section 94, any person described in subsection (2) shall, as soon as possible in the circumstances,
+    Subsection 95(3) of the Act is replaced by the following:
+    If there occurs a release of a substance as described in subsection (1), any person, other than a person described in subsection (2), whose property is affected by the release and who knows that it is a substance specified on the list of toxic substances in Schedule 1 shall, as soon as possible in the circumstances and subject to subsection (4), report the matter to an enforcement officer or to any person that is designated by regulation.
+    Voluntary report
+    Subsection 96(1) of the Act is replaced by the following:
+    If a person has knowledge of the occurrence or likelihood of a release into the environment of a substance specified on the list of toxic substances in Schedule 1, but the person is not required to report the matter under this Act, the person may report any information relating to the release or likely release to an enforcement officer or to any person to whom a report may be made under section 95.
+    Remedial measures
+    The portion of section 99 of the Act before paragraph (a) is replaced by the following:
+    If, in respect of a substance, a product that contains a substance or a product that may release a substance into the environment, there is a contravention of this Part or any regulation made under this Part, the Minister may, in writing,
+    Adding living organisms to Domestic Substances List
+    The portion of subsection 105(1) of the Act before paragraph (a) is replaced by the following:
+    The Minister shall, for the purpose of section 106, add to the Domestic Substances List maintained under section 66 any living organism if the Minister is satisfied that, between January 1, 1984 and December 31, 1986, the living organism
+    Domestic Substances List — Food and Drugs Act
+    The Act is amended by adding the following after section 105:
+    The Minister may, for the purpose of section 106, add a living organism to the Domestic Substances List if
+    the living organism was included on the version of the Revised In Commerce List that was prepared by the Minister of Health after the end, on November 3, 2019, of acceptance of substance nominations to that List and that is referred to in the Canada Gazette, Part I, Volume 152, Number 44, as the static list; and
+    no conditions specified under paragraph 109(1)(a) in respect of the living organism are in effect.
+    The Minister may, by order, designate any person or class of persons to exercise the power set out in subsection (1).
+    If the Minister is satisfied that a living organism added to the Domestic Substances List under subsection 105(1), 105.1(1) or 112(1) is not being manufactured in Canada or imported into Canada the Minister may delete the living organism from the List.
+    Before deleting a living organism from the Domestic Substances List under subsection (1), the Minister shall publish in the Canada Gazette and in any other manner that the Minister considers appropriate a notice indicating the Minister’s intention to delete it from the List.
+    Within 60 days after the publication of the notice, any person may file written comments with the Minister.
+    The Minister may, by order, designate any person or class of persons to exercise the powers and perform the duties and functions set out in this section.
+    Publication of notice of waiver
+    Subsection 106(9) of the Act is replaced by the following:
+    The Minister shall, as soon as possible in the circumstances, publish in the Canada Gazette a notice stating the name of any person to whom a waiver is granted and the type of information to which it relates.
+    Consultation
+    The Act is amended by adding the following after section 108:
+    If the information that the Ministers assess under subsection 108(1) or (2) is in respect of a vertebrate animal or a prescribed living organism or group of living organisms, the Ministers shall consult any interested persons before the expiry of the period for assessing that information.
+    Before undertaking consultations, the Minister shall publish a notice of consultation in any manner that the Minister considers appropriate.
+    Expiry of prohibition
+    Subsection 109(4) of the Act is replaced by the following:
+    Any prohibition on the manufacture or import of a living organism imposed under paragraph (1)(b) expires two years after the day on which it is imposed unless, before the expiry of the two years, there is published in the Canada Gazette
+    a regulation respecting preventive or control actions, in relation to the living organism, that is proposed to be made under this Act; or
+    a statement, identifying a regulation respecting preventive or control actions in relation to the living organism that is proposed to be made under any other Act of Parliament,
+    made jointly by the Minister and the Minister responsible for the administration of the Act of Parliament under which the regulation is to be made, if the Act is not an Act referred to in subparagraph (ii), or
+    made by the Minister of Health, if the Act of Parliament is one for whose administration that Minister is responsible.
+    If such a proposed regulation — or such a statement identifying a proposed regulation — is so published, the prohibition expires on the day on which the regulation comes into force.
+    Contents of notice
+    Subsections 110(2) and (3) of the Act are replaced by the following:
+    A notice referred to in subsection (1)
+    shall indicate, by inclusion or exclusion, the significant new activities in relation to the living organism with respect to which subsection 106(4) is to apply and, if regulations in respect of those significant new activities are not made under paragraphs 114(1)(c), (d) and (g), specify the information to be provided to the Minister under that subsection, the date on or before which it is to be provided and the period within which it is to be assessed under section 108; and
+    may specify for the purpose of subsection 111(2) classes of persons who are not required to be notified under subsection 111(1) with respect to the living organism.
+    The Minister may, by notice published in the Canada Gazette, specify for the purpose of subsection 111(2) classes of persons who are not required to be notified under subsection 111(1) with respect to a living organism for which a notice was published under subsection (1), if no such class was specified in that notice.
+    The Minister may, by notice published in the Canada Gazette,
+    vary the significant new activities in relation to a living organism for which a notice has been published under subsection (1) or vary the information to be provided to the Minister under subsection 106(4), the date on or before which that information is to be provided or the period within which it is to be assessed under section 108;
+    indicate that subsection 106(4) no longer applies with respect to that living organism;
+    vary the classes of persons, if any, that are specified for the purpose of subsection 111(2) in a notice published under subsection (1) or (3); or
+    indicate that a class of persons is no longer specified for the purpose of subsection 111(2).
+    Exception
+    Section 111 of the Act is renumbered as subsection 111(1) and is amended by adding the following:
+    A person who is within a class of persons that is specified in a notice published under subsection 110(1) or (3) — or, if the class is varied by a notice published under subsection 110(4), within the class as varied — is not required to be notified under subsection (1) with respect to the living organism to which the notice relates.
+    Significant new activity
+    Subsections 112(3) and (4) of the Act are replaced by the following:
+    If a living organism is on the Domestic Substances List or is to be added to the List under subsection (1) or 105.1(1), the Minister may amend the List to indicate that subsection 106(3) applies with respect to the living organism.
+    An amendment referred to in subsection (3)
+    shall indicate, by inclusion or exclusion, the significant new activities in relation to the living organism with respect to which subsection 106(3) is to apply and, if regulations in respect of those significant new activities are not made under paragraphs 114(1)(c), (d) and (g), specify the information to be provided to the Minister under that subsection, the date on or before which it is to be provided and the period within which it is to be assessed under section 108; and
+    may specify for the purpose of subsection 112.1(2) classes of persons who are not required to be notified under subsection 112.1(1) with respect to the living organism.
+    The Minister may amend the Domestic Substances List in respect of a living organism with respect to which subsection 106(3) applies
+    to vary the significant new activities in relation to the living organism or vary the information to be provided to the Minister under subsection 106(3), the date on or before which that information is to be provided or the period within which it is to be assessed under section 108;
+    to indicate that subsection 106(3) no longer applies;
+    to specify classes of persons for the purpose of subsection 112.1(2), if no such classes are specified with respect to the living organism;
+    to vary the classes of persons, if any, that are specified for the purpose of subsection 112.1(2); or
+    to delete any class of persons that is specified for the purpose of subsection 112.1(2).
+    Notification of persons required to comply
+    The Act is amended by adding the following after section 112:
+    If a living organism is specified on the Domestic Substances List with an indication that subsection 106(3) applies with respect to the living organism, every person who transfers the physical possession or control of the living organism shall notify all persons to whom the possession or control is transferred of the obligation to comply with that subsection.
+    A person is not required to be notified under subsection (1) with respect to a living organism if they are within a class of persons that is specified on the Domestic Substances List in respect of the living organism for the purpose of this subsection.
+    Subsection 114(1) of the Act is amended by adding the following after paragraph (g):
+    prescribing a living organism or group of living organisms for the purpose of subsection 108.1(1);
+    Paragraphs 199(1)(a) and (b) of the Act are replaced by the following:
+    a substance or group of substances specified in Part 1 or 2 of the list of toxic substances in Schedule 1; or
+    a substance or group of substances in relation to which there has been published in the Canada Gazette
+    a statement of the Ministers under paragraph 77(6)(b) indicating that the measure that they propose to take, as confirmed or amended, is a recommendation that the substance be added to Part 1 or 2 of the list of toxic substances in Schedule 1, or
+    a copy of an order proposed to be made under subsection 90(1).
+    Powers of Minister
+    Paragraphs 209(2)(f) and (g) of the Act are replaced by the following:
+    the purposes for which the substance, a product that contains the substance or a product that may release the substance into the environment may be imported, exported, manufactured, processed, used, offered for sale or sold;
+    the manner in which and the conditions under which the substance, a product that contains the substance or a product that may release the substance into the environment may be imported, exported, manufactured, processed or used;
+    Paragraph 209(2)(i) of the Act is replaced by the following:
+    the quantities or concentrations of the substance that may be imported or exported;
+    Paragraphs 209(2)(l) to (r) of the Act are replaced by the following:
+    the total, partial or conditional prohibition of the manufacture, use, processing, sale, offering for sale, import or export of the substance, a product that contains the substance or a product that may release the substance into the environment and the total, partial or conditional prohibition of the manufacture, import or export of a product that is intended to contain the substance;
+    the quantity or concentration of the substance that may be contained in any product manufactured, imported, exported, sold or offered for sale in Canada, or that any such product may release into the environment;
+    the manner in which, the conditions under which and the purposes for which the substance, a product that contains the substance or a product that may release the substance into the environment may be advertised or offered for sale;
+    the manner in which and the conditions under which the substance, a product that contains the substance or a product that may release the substance into the environment may be stored, displayed, handled, transported or offered for transport;
+    the packaging and labelling of the substance, a product that contains the substance or a product that may release the substance into the environment;
+    the manner, conditions, places and method of disposal or recycling of the substance, a product that contains the substance or a product that may release the substance into the environment, including standards for the construction, maintenance and inspection of disposal or recycling sites;
+    the submission to the Minister, on request or at any times that are prescribed, of information relating to the substance, a product that contains the substance or a product that may release the substance into the environment;
+    Paragraphs 209(2)(t) and (u) of the Act are replaced by the following:
+    the conduct of sampling, analyses, tests, measurements or monitoring of the substance, a product that contains the substance or a product that may release the substance into the environment and the submission of the results to the Minister;
+    the submission to the Minister of samples of the substance, a product that contains the substance or a product that may release the substance into the environment;
+    Paragraph 209(2)(v) of the English version of the Act is replaced by the following:
+    the conditions, test procedures and laboratory practices to be followed for conducting sampling, analyses, tests, measurements or monitoring of the substance, a product that contains the substance or a product that may release the substance into the environment;
+    Section 209 of the Act is amended by adding the following after subsection (4):
+    Regulations made under this section may authorize the Minister, in the circumstances and subject to the conditions and limits that may be specified in the regulations, to issue, amend, suspend and revoke permits and other authorizations in relation to any matter that is the subject of the regulations and to set their terms and conditions.
+    A permit or other authorization issued under regulations made under this section is not a statutory instrument as defined in subsection 2(1) of the Statutory Instruments Act.
+    Paragraph 218(1)(a) of the Act is replaced by the following:
+    there can be found in the place a substance with respect to which this Act applies, a product that contains such a substance or a product that may release such a substance into the environment;
+    Paragraph 235(2)(a) of the Act is replaced by the following:
+    the exportation, importation, manufacture, transportation, processing or distribution of a substance, a product that contains a substance or a product that may release a substance into the environment;
+    Paragraphs 235(2)(b) and (c) of the English version of the Act are replaced by the following:
+    the possession, storage, use, sale, offering for sale, advertisement or disposal of a substance, a product that contains a substance or a product that may release a substance into the environment;
+    the use, in a commercial manufacturing or processing activity, of a substance, a product that contains a substance or a product that may release a substance into the environment; or
+    Paragraph 235(3)(a) of the Act is replaced by the following:
+    owns or has the charge, management or control of
+    the substance — or any product that contains the substance or that may release the substance into the environment — to which the alleged contravention relates, or
+    the property on which the substance or product is located;
+    2009, c. 14, s. 72
+    Paragraph 272(1)(b) of the Act is replaced by the following:
+    fails to comply with an obligation set out in section 70, 86, 87.1, 95, 111 or 112.1 or subsection 169(1), 172(1), 179(1), 182(1), 201(1) or 212(1);
+    Paragraph 272(1)(d) of the Act is replaced by the following:
+    contravenes a condition of a permission granted under paragraph 84(1)(a) or 109(1)(a) or under regulations made under section 93 or 209;
+    Demande de confidentialité
+    Subsection 313(1) of the French version of the Act is replaced by the following:
+    Quiconque fournit des renseignements au ministre sous le régime de la présente loi, ou à la commission de révision relativement à un avis d’opposition déposé aux termes de la présente loi, peut en même temps demander que les renseignements fournis soient considérés comme confidentiels.
+    Subsection 313(2) of the Act is replaced by the following:
+    A request for confidentiality shall be submitted, with reasons taking into account the criteria set out in paragraphs 20(1)(a) to (d) of the Access to Information Act, in writing and contain any supplementary information that may be prescribed.
+    The Minister shall review a statistically valid representative sample of requests granted under subsection (1) and determine whether, in respect of each of those requests, the person who made the request demonstrated that it concerned any of the following:
+    trade secrets of any person;
+    financial, commercial, scientific or technical information that is confidential information and that is treated consistently in a confidential manner by any person;
+    information the disclosure of which could reasonably be expected to result in material financial loss or gain to, or could reasonably be expected to prejudice the competitive position of, any person; or
+    information the disclosure of which could reasonably be expected to interfere with contractual or other negotiations of any person.
+    If the Minister determines that the person who made the request did not demonstrate that the request, in whole or in part, concerned information described in any of paragraphs (3)(a) to (d), then, for the purpose of any part of the request that does not concern such information, the request is deemed not to have been made.
+    The Minister shall include in the annual report required under section 342 the number of requests made under subsection (1), the number of requests reviewed, the number of requests that, in whole or in part, were deemed not to have been made and a summary of the information disclosed under sections 315 to 317.2.
+    The Minister may, by order, designate any person or class of persons to exercise the powers and perform the duties and functions set out in this section.
+    Prohibition of disclosure
+    Section 314 of the Act is replaced by the following:
+    The Minister shall not disclose any information in respect of which a request for confidentiality has been made under section 313, except in accordance with any of sections 315 to 317.2.
+    The portion of paragraph 316(1)(c) of the Act before subparagraph (i) is replaced by the following:
+    under an agreement or arrangement between the Government of Canada or any of its institutions and any other government in Canada, the government of a foreign state or an international organization or any of its institutions, or between the Minister and any other minister of the Crown in right of Canada or a board or agency of the Government of Canada, if
+    Subparagraph 316(1)(c)(ii) of the Act of the Act is replaced by the following:
+    the government, international organization, institution, other minister, board or agency undertakes to keep the information confidential;
+    Disclosure — substance
+    The Act is amended by adding the following after section 317:
+    The Minister may disclose the explicit chemical or biological name of a substance in respect of which a request for confidentiality has been made if the Minister takes or has taken any of the following measures:
+    to permit, under paragraph 84(1)(a), the manufacture or importation of the substance, subject to any conditions that are specified;
+    to prohibit the manufacture or importation of the substance under paragraph 84(1)(b);
+    to publish, in respect of the substance, a notice under subsection 85(1) or (4); or
+    to amend the Domestic Substances List in respect of the substance under subsection 87(3) or (4.1).
+    The Minister may disclose the explicit biological name of a living organism in respect of which a request for confidentiality has been made if the Minister takes or has taken any of the following measures:
+    to permit, under paragraph 109(1)(a), the manufacture or importation of the living organism, subject to any conditions that are specified;
+    to prohibit the manufacture or importation of the living organism under paragraph 109(1)(b);
+    to publish, in respect of the living organism, a notice under subsection 110(1) or (4); or
+    to amend the Domestic Substances List in respect of the living organism under subsection 112(3) or (5).
+    The Minister shall disclose the explicit chemical or biological name of a substance or the explicit biological name of a living organism in respect of which a request for confidentiality has been made if the Ministers recommend or have recommended to the Governor in Council the addition of the substance or the living organism to Part 1 or 2 of the list of toxic substances in Schedule 1 under subsection 90(1).
+    The Minister may disclose the explicit chemical or biological name of a substance or the explicit biological name of a living organism after the expiry of a period of 10 years after the day on which a request for confidentiality under section 313 is made.
+    The Minister shall publish a notice in the Canada Gazette of the Minister’s intention to disclose the explicit chemical or biological name under subsection (1) at least 60 days before the proposed disclosure.
+    Within 60 days after the publication of the notice, the person who made the request for confidentiality or the person’s successor or assign may file with the Minister comments respecting
+    whether the public interest in the disclosure of the name clearly outweighs in importance
+    any material financial loss or prejudice to the competitive position of the person or the person’s successor or assign, and
+    any damage to the privacy, reputation or human dignity of any person that may result from the disclosure of that name; and
+    whether the disclosure is prohibited under section 20 of the Access to Information Act.
+    At least 24 hours before disclosing the name under subsection (1), the Minister shall give notice of the proposed disclosure to the person who made the request for confidentiality or the person’s successor or assign. The notice is not required if the person to whom it is to be given cannot be found after reasonable efforts have been made to do so.
+    If an emergency exists, subsections (2) and (3) do not apply and the notice of disclosure required in subsection (4) may be given later than the time provided for in that subsection.
+    The Minister shall include in the annual report required by section 342 a report respecting the explicit chemical or biological names of substances and the explicit biological names of living organisms disclosed under section 317.1 or 317.2.
+    Subsections 330(3) and (3.1) of the Act are repealed.
+    2004, c. 15, s. 31
+    Subsections 332(1) and (2) of the Act are replaced by the following:
+    The Minister shall publish in the Canada Gazette a copy of every order or regulation proposed to be made by the Minister or the Governor in Council under this Act, except a list, or an amendment to a list, referred to in any of sections 66 to 66.2, 87, 105 to 105.2 and 112 or an interim order made under section 94, 163, 173, 183 or 200.1.
+    Any person may file with the Minister comments, or a notice of objection requesting that a board of review be established under section 333 and stating the reasons for the objection, within 60 days after the publication of
+    a proposed order or regulation referred to in subsection (1);
+    a proposed instrument respecting preventive or control actions in relation to a substance that is required by section 91 to be published in the Canada Gazette; or
+    a statement referred to in subparagraph 91(1)(a)(ii) or (b)(ii).
+    Establishment of board of review
+    Subsection 333(1) of the Act is replaced by the following:
+    If a person files a notice of objection under subsection 332(2) in respect of a decision or a proposed order, regulation or instrument made by the Governor in Council, a decision or a proposed order or instrument made by either or both Ministers or a statement referred to in subparagraph 91(1)(a)(ii) or (b)(ii), the Minister or the Ministers may establish a board of review to inquire into the nature and extent of the danger posed by the substance in respect of which the decision or statement is made or the order, regulation or instrument is proposed.
+    Subsection 333(6) of the Act is repealed.
+    Report — aboriginal peoples
+    The Act is amended by adding the following after section 342:
+    The Minister shall include in the annual report required by section 342 information related to
+    consultations with aboriginal peoples and aboriginal governments, including a summary of the key issues raised, in relation to matters under this Act;
+    the administration of this Act in respect of aboriginal peoples and aboriginal governments, including the measures taken to advance reconciliation as reflected in section 35 of the Constitution Act, 1982 and in the United Nations Declaration on the Rights of Indigenous Peoples Act; and
+    the key findings or recommendations of any report made under an Act of Parliament in respect of the administration of this Act and aboriginal
+peoples and aboriginal governments.
+    SOR/2000-109, s. 1; SOR/2001-1, s. 1; SOR/2001-147, s. 1; SOR/2003-10, s. 1; SOR/2003-98, s. 1 and 2; SOR/2003-172, s. 1; SOR/2003-172, s. 1; SOR/2003-229, s. 1; SOR/2003-270, s. 1; SOR/2003-277, s. 1; SOR/2005-40, s. 1; SOR/2005-46, s. 1; SOR/2005-262, s. 1; SOR/2005-345, s. 1; SOR/2006-329, ss.1 and 2; SOR/2006-333, s. 1; SOR/2010-98, s. 1; SOR/2010-194, s. 1; SOR/2010-210, s. 1; SOR/2011-25, s. 1; SOR/2011-26, s. 1; SOR/2011-34, s. 1; SOR/2011-35, s. 1; SOR/2011-140, s. 1; SOR/2011-212, s. 1; SOR/2011-286, s. 1; SOR/2011-287, s. 1; SOR/2012-40, s. 1; SOR/2012-186, s. 1; SOR/2012-187, s. 1; SOR/2012-189, s. 1; SOR/2012-219, s. 1; SOR/2012-235, s. 1; SOR/2013-188, s. 1; SOR/2016-120, s. 1; SOR/2016-150, s. 1;SOR/2016-251, s. 1; SOR/2016-308, s. 1; SOR/2017-113, s. 1; SOR/2018-20, s. 1; SOR/2018-67, s. 1; SOR/2018-129, s. 1; SOR/2018-130, s. 1; SOR/2019-115, s. 1; SOR/2019-197, s. 1; SOR/2019-198, s. 1; SOR/2020-217, s. 1; SOR/2020-218, s. 1; SOR/2021-86, s. 1; SOR/2021-89, s. 1
+    Schedule 1 to the Act is replaced by the Schedule 1 set out in the schedule to this Act.
+  Transitional Provisions:
+    Words and expressions
+    Unless the context otherwise requires, words and expressions used in sections 60 to 62 have the same meaning as in the Canadian Environmental Protection Act, 1999.
+    Statement under subsection 77(1) — deemed recommendation to add to Part 1
+    If, before the day on which subsection 21(1) of this Act comes into force, a statement is published under subsection 77(1) of the Canadian Environmental Protection Act, 1999 indicating that the measure that the Ministers propose to take in respect of a substance is a recommendation to add the substance to the List of Toxic Substances in Schedule 1 of that Act and to implement virtual elimination under subsection 65(3) of that Act and no statement confirming or amending that measure has been published under paragraph 77(6)(b) of that Act before that day, the measure is deemed to be a recommendation, made under paragraph 77(2)(c) of that Act, as that paragraph reads after that day, to add the substance on the list of toxic substances in Part 1 of Schedule 1, as that Schedule reads after that day.
+    If, before the day on which subsection 21(1) of this Act comes into force, a statement is published under subsection 77(1) of the Canadian Environmental Protection Act, 1999 indicating that the measure that the Ministers propose to take in respect of the substance is a recommendation to add the substance to the List of Toxic Substances in Schedule 1 of that Act without implementing virtual elimination under subsection 65(3) of that Act and no statement confirming or amending that measure is published under paragraph 77(6)(b) of that Act before that day, the measure is deemed to be a recommendation, made under paragraph 77(2)(d) of that Act, as enacted by that subsection 21(1), to add the substance on the list of toxic substances in Part 2 of Schedule 1, as that Schedule reads after that day.
+    Statement under paragraph 77(6)(b) — deemed recommendation to add to Part 1
+    If, before the day on which subsection 21(2) of this Act comes into force, a statement is published under paragraph 77(6)(b) of the Canadian Environmental Protection Act, 1999 indicating that the measure that the Ministers propose to take, as confirmed or amended, in respect of a substance is a recommendation to add the substance to the List of Toxic Substances in Schedule 1 of that Act and to implement virtual elimination under subsection 65(3) of that Act, the statement is deemed to be a statement, published under paragraph 77(6)(b) of that Act, as it reads after that day, indicating that the measure, as confirmed or amended, is a recommendation to add the substance on the list of toxic substances in Part 1 of Schedule 1, as that Schedule reads after that day.
+    If, before the day on which subsection 21(2) of this Act comes into force, a statement is published under paragraph 77(6)(b) of the Canadian Environmental Protection Act, 1999 indicating that the measure that the Ministers propose to take, as confirmed or amended, in respect of the substance is a recommendation to add the substance to the List of Toxic Substances in Schedule 1 of that Act without the implementation of virtual elimination under subsection 65(3) of that Act, the statement is deemed to be a statement, published under paragraph 77(6)(b) of that Act, as it reads after that day, indicating that the measure, as confirmed or amended, is a recommendation to add the substance on the list of toxic substances in Part 2 of Schedule 1, as that Schedule reads after that day.
+    Schedule 1 — substance added
+    If a substance is added to the List of Toxic Substances in Schedule 1 of the Canadian Environmental Protection Act, 1999 before the day on which section 58 of this Act comes into force but the substance is not specified on the list of toxic substances in Part 1 or 2 of Schedule 1 of the Canadian Environmental Protection Act, 1999 on that day, the Governor in Council must as soon as feasible after that day make an order adding the substance
+    to the list of toxic substances in Part 1 of Schedule 1 of that Act, if the Governor in Council is satisfied that the substance is toxic within the meaning of section 64 of that Act and if the Ministers recommended the implementation of virtual elimination under subsection 65(3) of that Act in relation to the substance; or
+    to the list of toxic substances in Part 2 of Schedule 1 of that Act, if the Governor in Council is satisfied that the substance is toxic within the meaning of section 64 of that Act and if the Ministers did not recommend the implementation of virtual elimination under subsection 65(3) of that Act in relation to the substance.
+    If a substance is deleted from the List of Toxic Substances in Schedule 1 of the Canadian Environmental Protection Act, 1999 before the day on which section 58 of this Act comes into force but the substance is specified on the list of toxic substances in Part 1 or 2 of Schedule 1 of that Act as it reads after that day, the Governor in Council must as soon as feasible after that day make an order deleting the substance from the list of toxic substances on which it is specified.
+    Regulations
+    The Minister of the Environment and the Minister of Health may, by regulation,
+    repeal the Virtual Elimination List; and
+    repeal the Regulations Adding Perfluorooctane Sulfonate and Its Salts to the Virtual Elimination List.
+  Related Amendments to the :
+    Risk to environment
+    The Food and Drugs Act is amended by adding the following after section 11:
+    It is prohibited for a person to sell, or to manufacture, prepare, preserve, package or store for sale, any drug that contains a prescribed substance, unless the Minister has conducted an assessment, in accordance with the regulations made under paragraph 30(1)(l.1), of the risk to the environment presented by the substance.
+    Information — serious environmental risk
+    The Act is amended by adding the following after section 21.3:
+    If the Minister believes that a therapeutic product may present a serious risk to the environment, the Minister may order a person to provide the Minister with information that is in the person’s control and that the Minister believes is necessary to determine whether the product presents such a risk.
+    The Minister may disclose confidential business information about a therapeutic product without notifying the person to whose business or affairs the information relates or obtaining their consent, if the Minister believes that the product may present a serious risk to the environment.
+    The Minister may disclose confidential business information about a therapeutic product without notifying the person to whose business or affairs the information relates or obtaining their consent, if the purpose of the disclosure is related to the protection of the environment and the disclosure is to
+    a government;
+    a person from whom the Minister seeks advice; or
+    a person who carries out functions relating to the protection of the environment, including the assessment and management of risks to the environment.
+    In this section, government has the same meaning as in subsection 21.1(4).
+    The Minister may, if he or she believes that doing so is necessary to prevent a serious risk to the environment, order the holder of a therapeutic product authorization that authorizes the import or sale of a therapeutic product to modify the product’s label or to modify or replace its package.
+    If the Minister believes that a therapeutic product presents a serious or imminent risk to the environment, he or she may order a person who sells the product to
+    recall the product; or
+    send the product, or cause it to be sent, to a place specified in the order.
+    Subsections 21.3(2) to (6) apply, with any modifications that the circumstances require, in respect of any order made under subsection (1).
+    2014, c. 24, s. 4
+    Section 21.4 of the Act is replaced by the following:
+    Subject to the regulations, the Minister may, for the purpose of obtaining additional information about a therapeutic product’s effects on the environment, order the holder of a therapeutic product authorization to
+    compile information or conduct tests, studies or monitoring in respect of the therapeutic product; and
+    provide the Minister with the information or the results of the tests, studies or monitoring.
+    For greater certainty, orders made under any of sections 21.1 to 21.33 are not statutory instruments within the meaning of the Statutory Instruments Act.
+    The Minister shall ensure that any order made under any of sections 21.1 to 21.33 is publicly available.
+    1999, c. 33, s. 347
+    Subsection 30(1) of the Act is amended by adding the following after paragraph (a):
+    declaring that any drug is adulterated if the Minister believes that a prescribed substance contained in that drug presents a serious risk to the environment;
+    Subsection 30(1) of the Act is amended by adding the following after paragraph (a.01):
+    prescribing the substances that are subject to an assessment under section 11.1;
+    Subsection 30(1) of the Act is amended by adding the following after paragraph (b):
+    respecting, for the purposes of managing risks to the environment, any of the following:
+    the labelling and packaging and the offering, exposing and advertising for sale of food, drugs, cosmetics and devices,
+    the size, dimensions, fill and other specifications of packages of food, drugs, cosmetics and devices,
+    the sale or the conditions of sale of any food, drug, cosmetic or device, and
+    the use of any substance as an ingredient in any food, drug, cosmetic or device;
+    Paragraph 30(1)(e) of the Act is replaced by the following:
+    respecting the method of manufacture, preparation, preserving, packaging, storing and testing of any food, drug, cosmetic or device in the interest of, or for the prevention of injury to, the health of the purchaser or consumer or to manage risks to the environment;
+    Paragraph 30(1)(l.1) of the Act is replaced by the following:
+    respecting the assessment of the risk to the environment or human life and health of the release into the environment of any food, drug, cosmetic or device;
+    respecting, for the purpose of managing risks to the environment identified as part of an assessment under this Act, measures in respect of selling or importing, manufacturing, preparing, preserving, packaging or storing for sale any food, drug, cosmetic or device;
+    authorizing the Minister to waive any requirement respecting the assessment under this Act of the risk to the environment presented by a food, drug, cosmetic or device;
+    Section 30 of the Act is amended by adding the following after subsection (1):
+    Before recommending to the Governor in Council that a regulation be made under paragraph (1)(a.02), the Minister must take into account the degree of uncertainty respecting the risks to the environment associated with the use of a substance as an ingredient in a drug, including its release into the environment.
+    Subsection 30(1.2) of the Act is amended by adding the following after paragraph (d):
+    requiring holders of a therapeutic product authorization to provide the Minister with information, in respect of any serious risk to the environment, that the holders receive or become aware of and that is relevant to the therapeutic product to which the authorization relates, regarding
+    risks that have been communicated outside Canada, and the manner of the communication,
+    changes that have taken place to labelling outside Canada, and
+    recalls, reassessments and suspensions or revocations of authorizations, including licences, in respect of a therapeutic product, that have taken place outside Canada;
+    Paragraph 30(1.2)(e) of the Act is replaced by the following:
+    respecting modifications of labels and modifications and replacements of packages referred to in sections 21.2 and 21.302;
+    Paragraph 30(1.2)(f.3) of the Act is replaced by the following:
+    respecting the compilation of information, the conducting of tests and studies and the monitoring that are referred to in paragraphs 21.32(a) and 21.33(a), and the provision to the Minister of the information or results referred to in paragraphs 21.32(b) and 21.33(b);
+  Repeal:
+    Repeal
+    The Perfluorooctane Sulfonate Virtual Elimination Act, chapter 13 of the Statutes of Canada, 2008, is repealed.
+  Coming into Force:
+    Order in council
+    Section 64 and subsections 67(2), (5) and (6) come into force on a day to be fixed by order of the Governor in Council.
