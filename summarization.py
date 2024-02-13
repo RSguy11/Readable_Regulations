@@ -11,10 +11,7 @@ import torch
 
 df = pd.read_json('ca_test_data_final_OFFICIAL.jsonl', lines=True)
 
-selected_columns = ['summary', 'title', 'sum_len']
-dataf_Summaries = df[selected_columns].copy()
-
-selected_columns[1] = 'bill_id'
+selected_columns = ['text_len', 'bill_id', 'sum_len']
 df = df.drop(columns=selected_columns)
 
 # Function to remove punctuation
@@ -29,7 +26,7 @@ stop = nltk.download('stopwords')
 stop_words = stopwords.words('english')
 df['text'] = df['text'].apply(lambda x: ' '.join([word for word in x.split() if word not in (stop_words)]))
 # Apply the function to a DataFrame column
-df['text]'] = df['text'].apply(remove_punctuations)
+df['text'] = df['text'].apply(remove_punctuations)
 
 """
 The following code has been updated below to do the same thing more efficiently. It was changed to run in one line instead of making multiple calls to the dataframe.
@@ -44,8 +41,7 @@ pattern = r'(SECTION \d+\s?)|\([^)]*\)|(SEC. \d+\s?)'
 
 # Replacing the matched text with an empty string
 df['text'] = df['text'].str.replace(pattern, '', regex=True)
-textCell = df.iat[3, df.columns.get_loc('text')]
-summaryCell = dataf_Summaries.iat[3, dataf_Summaries.columns.get_loc('summary')]
+
 
 # print(textCell)
 # print("\nSummary")
@@ -53,17 +49,29 @@ summaryCell = dataf_Summaries.iat[3, dataf_Summaries.columns.get_loc('summary')]
 
 
 
-df_text = df['text']
-df_summ = dataf_Summaries['summary']
-
 # Split into train and test
-train_text, test_text = train_test_split(df_text, test_size=0.2, random_state=42)
-train_sum, test_sum = train_test_split(df_summ, test_size=0.2, random_state=42)
+# train_text, test_text = train_test_split(df, test_size=0.2, random_state=42)
+
+import pandas as pd
+import datasets
+from datasets import Dataset, DatasetDict
+
+# Correctly splitting the DataFrame into train and test sets
+train_df, test_df = train_test_split(df, test_size=0.2, random_state=42)
+
+tds = Dataset.from_pandas(train_df)
+vds = Dataset.from_pandas(test_df)
+
+ds = DatasetDict()
+ds['train'] = tds
+ds['test'] = vds
+
 
 
 # Getting rid of "The people State California enact follows". Not entirely sure if that is neccesary.
-train_text = train_text.str.replace(r'^.*?\:', '', regex=True)
-test_text = train_text.str.replace(r'^.*?\:', '', regex=True)
+# train_text = train_text.str.replace(r'^.*?\:', '', regex=True)
+# test_text = train_text.str.replace(r'^.*?\:', '', regex=True)
+
 
 from transformers import AutoTokenizer
 # Load Tokenizer
@@ -74,12 +82,12 @@ tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 # Define the prefix and preprocessing function
 prefix = "summarize: "
 
-def preprocess_function(text, summary):
-    inputs = [prefix + doc for doc in text]
+def preprocess_function(examples):
+    inputs = [prefix + doc for doc in examples["text"]]
     model_inputs = tokenizer(inputs, max_length=1024, truncation=True)
 
     # Convert the Pandas Series 'summary' to a list
-    summary_list = summary.tolist() if isinstance(summary, pd.Series) else summary
+    summary_list = examples['summary'].tolist() if isinstance(examples['summary'], pd.Series) else examples['summary']
 
     labels = tokenizer(text_target=summary_list, max_length=128, truncation=True)
 
@@ -89,8 +97,10 @@ def preprocess_function(text, summary):
 
 
 # Apply preprocessing function to training and testing sets
-tokenized_train = preprocess_function(train_text, train_sum)
-tokenized_test = preprocess_function(test_text, test_sum)
+# tokenized_train = preprocess_function(train_text, train_sum)
+# tokenized_test = preprocess_function(test_text, test_sum)
+ds = ds.map(preprocess_function, batched=True)
+
 
 
 from transformers import DataCollatorForSeq2Seq
@@ -136,15 +146,15 @@ training_args = Seq2SeqTrainingArguments(
     save_total_limit=3,
     num_train_epochs=4,
     predict_with_generate=True,
-    fp16=True,
-    push_to_hub=True,
+    fp16=False,
+    push_to_hub=False,
 )
 
 trainer = Seq2SeqTrainer(
     model=model,
     args=training_args,
-    train_dataset=tokenized_billsum["train"],
-    eval_dataset=tokenized_billsum["test"],
+    train_dataset=ds['train'],
+    eval_dataset=ds['test'],
     tokenizer=tokenizer,
     data_collator=data_collator,
     compute_metrics=compute_metrics,
