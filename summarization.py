@@ -1,5 +1,5 @@
 import pandas as pd
-import json 
+import json
 import matplotlib.pyplot as plt
 import string
 import nltk
@@ -7,10 +7,13 @@ import numpy as np
 from nltk.corpus import stopwords
 from sklearn.model_selection import train_test_split
 import torch
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, Seq2SeqTrainingArguments, Seq2SeqTrainer, DataCollatorForSeq2Seq
+import datasets
+from datasets import Dataset, DatasetDict
+import evaluate
 
-
+# Load and preprocess dataset
 df = pd.read_json('ca_test_data_final_OFFICIAL.jsonl', lines=True)
-
 selected_columns = ['text_len', 'bill_id', 'sum_len']
 df = df.drop(columns=selected_columns)
 
@@ -20,122 +23,53 @@ def remove_punctuations(text):
         text = text.replace(punctuation, '')
     return text
 
-
-stop = nltk.download('stopwords')
-
+nltk.download('stopwords')
 stop_words = stopwords.words('english')
 df['text'] = df['text'].apply(lambda x: ' '.join([word for word in x.split() if word not in (stop_words)]))
-# Apply the function to a DataFrame column
 df['text'] = df['text'].apply(remove_punctuations)
 
-"""
-The following code has been updated below to do the same thing more efficiently. It was changed to run in one line instead of making multiple calls to the dataframe.
-# Removing the text between perentheses
-pattern = r'\([^)]*\)'
-# Replacing the matched text with an empty string
-df['text'] = df['text'].str.replace(pattern, '', regex=True)
-"""
-# Removing the Section headings. Included under is the pattern to remvoe all the section words and the numbers after. It also removes all the text between perentheses and removes all the SEC. 
+# Removing patterns from text
 pattern = r'(SECTION \d+\s?)|\([^)]*\)|(SEC. \d+\s?)'
-# Pattern = r'(?i)SECTION \d+\s?'
-
-# Replacing the matched text with an empty string
 df['text'] = df['text'].str.replace(pattern, '', regex=True)
 
-
-# print(textCell)
-# print("\nSummary")
-# print(summaryCell)
-
-
-
-# Split into train and test
-# train_text, test_text = train_test_split(df, test_size=0.2, random_state=42)
-
-import pandas as pd
-import datasets
-from datasets import Dataset, DatasetDict
-
-# Correctly splitting the DataFrame into train and test sets
+# Splitting dataset
 train_df, test_df = train_test_split(df, test_size=0.2, random_state=42)
-
 tds = Dataset.from_pandas(train_df)
 vds = Dataset.from_pandas(test_df)
+ds = DatasetDict({'train': tds, 'test': vds})
 
-ds = DatasetDict()
-ds['train'] = tds
-ds['test'] = vds
-
-
-
-# Getting rid of "The people State California enact follows". Not entirely sure if that is neccesary.
-# train_text = train_text.str.replace(r'^.*?\:', '', regex=True)
-# test_text = train_text.str.replace(r'^.*?\:', '', regex=True)
-
-
-from transformers import AutoTokenizer
-# Load Tokenizer
+# Tokenizer and model initialization
 checkpoint = "t5-small"
 tokenizer = AutoTokenizer.from_pretrained(checkpoint)
+model = AutoModelForSeq2SeqLM.from_pretrained(checkpoint)
 
-
-# Define the prefix and preprocessing function
+# Preprocess function
 prefix = "summarize: "
-
 def preprocess_function(examples):
     inputs = [prefix + doc for doc in examples["text"]]
     model_inputs = tokenizer(inputs, max_length=1024, truncation=True)
-
-    # Convert the Pandas Series 'summary' to a list
-    summary_list = examples['summary'].tolist() if isinstance(examples['summary'], pd.Series) else examples['summary']
-
+    summary_list = examples['summary']
     labels = tokenizer(text_target=summary_list, max_length=128, truncation=True)
-
     model_inputs["labels"] = labels["input_ids"]
     return model_inputs
 
-
-
-# Apply preprocessing function to training and testing sets
-# tokenized_train = preprocess_function(train_text, train_sum)
-# tokenized_test = preprocess_function(test_text, test_sum)
 ds = ds.map(preprocess_function, batched=True)
 
-
-
-from transformers import DataCollatorForSeq2Seq
-
+# Data collator and metrics
 data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model=checkpoint)
-
-
-
-import evaluate
-
 rouge = evaluate.load("rouge")
-
-
-import numpy as np
-
 
 def compute_metrics(eval_pred):
     predictions, labels = eval_pred
     decoded_preds = tokenizer.batch_decode(predictions, skip_special_tokens=True)
     labels = np.where(labels != -100, labels, tokenizer.pad_token_id)
     decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
-
     result = rouge.compute(predictions=decoded_preds, references=decoded_labels, use_stemmer=True)
-
     prediction_lens = [np.count_nonzero(pred != tokenizer.pad_token_id) for pred in predictions]
     result["gen_len"] = np.mean(prediction_lens)
-
     return {k: round(v, 4) for k, v in result.items()}
 
-
-from transformers import AutoModelForSeq2SeqLM, Seq2SeqTrainingArguments, Seq2SeqTrainer
-
-model = AutoModelForSeq2SeqLM.from_pretrained(checkpoint)
-
-
+# Training
 training_args = Seq2SeqTrainingArguments(
     output_dir="my_awesome_billsum_model",
     evaluation_strategy="epoch",
@@ -147,7 +81,7 @@ training_args = Seq2SeqTrainingArguments(
     num_train_epochs=4,
     predict_with_generate=True,
     fp16=False,
-    push_to_hub=False,
+    push_to_hub=False,  # Consider changing to True if you want to push to Hugging Face Hub
 )
 
 trainer = Seq2SeqTrainer(
@@ -162,18 +96,9 @@ trainer = Seq2SeqTrainer(
 
 trainer.train()
 
-
-
-# Example of how to use the trained model for summarization
-input_text = "The California State Legislature passed a bill to address climate change and promote sustainable energy practices. The bill outlines various measures to reduce carbon emissions, increase reliance on renewable energy sources, and encourage environmentally friendly practices across different sectors. It emphasizes the importance of transitioning to a low-carbon economy to mitigate the impacts of climate change on the state and its residents. The legislation also includes provisions for incentivizing green technology adoption and fostering innovation in the renewable energy sector."
-
-
-inputs = tokenizer("summarize: " + input_text, return_tensors="pt", max_length=1024, truncation=True)
-summary_ids = model.generate(inputs["input_ids"], max_length=150, num_beams=4, length_penalty=2.0, early_stopping=True)
-generated_summary = tokenizer.decode(summary_ids[0], skip_special_tokens=True)
-
-# Print the generated summary
-print("Generated Summary:", generated_summary)
+# Save model and tokenizer
+tokenizer.save_pretrained('Summerization_model_directory')
+model.save_pretrained('Summerization_model_directory')
 
 
 
