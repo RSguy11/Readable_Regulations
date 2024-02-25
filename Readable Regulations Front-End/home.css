@@ -18,7 +18,13 @@
     padding:0;
     margin:0;
     box-sizing: border-box;
-}
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+  }
 
 .nav-select{
     text-align: center;
@@ -40,7 +46,7 @@
     direction:row;
     width:100%;
     height:25%;
-
+    border-radius: 15px;
     
    /*Top,right,bottom,left i always forget so wrote it down lol */
 
@@ -85,25 +91,41 @@
 body {
     overflow-x: hidden; /* Prevent horizontal scrolling */
     overflow-y: hidden;
-    background-color: whitesmoke;
+    background-image: linear-gradient(90deg, #020024 0%, #090979 15%, #00d4ff 100%);
+
 
 }
 
 .title-div{
     display: flex;
     border:solid;
-    
-
 }
 
-#Readable-title{
-    font-family:Arial black,sans-serif;
-    width:40%;
+#Readable-title {
+    display: inline-block;
+    cursor: pointer;
+
+    background-image: linear-gradient(#00d4ff, #00d4ff);
+    background-repeat: no-repeat;
+
+    background-size: 10px 100%;
+    background-position: 0,0;
+    transition:
+        background-size 0.5s, background-position 0.3s 0.5s;
+        
+    font-family: Arial black, sans-serif;
+    width: 40%;
     text-align: center;
     border: solid;
-    margin: 10% 30% 0% 30%;  /*Top,right,bottom,left */
-    background-color: antiquewhite;
-    
+    margin: 10% 30% 0% 30%;
+    border-radius: 15px; /* Adjust the value to your preference for rounded corners */
+}
+
+#Readable-title:hover {
+    background-size: 100% 100%;
+    background-position: 100% 0;
+    transition:allbackground-position 0.3s, 
+    background-size 0.5s 0.3s;
 }
 
 ::placeholder {

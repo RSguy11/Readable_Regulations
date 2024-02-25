@@ -11,6 +11,11 @@ document.getElementById("input-results-box").addEventListener("click", function(
     }
 });
 
+// funny music :)
+function playMusic(){
+    var music = new Audio('kachow.mp3');
+    music.play();
+    }
 
 document.getElementById("nav-bar").addEventListener("click", function(event) {
     if (event.target.id === "economic") {
