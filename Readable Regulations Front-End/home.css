@@ -8,15 +8,15 @@
     
 }
 
-.nav-button{
-    font-family:Arial black,sans-serif;
+.nav-button {
+    font-family: Arial black, sans-serif;
     font-size: 0.8em;
     border: 1px solid;
-    background-color:antiquewhite;
-    width:20%;
-    height:100%;
-    padding:0;
-    margin:0;
+    background-color: antiquewhite;
+    width: 20%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
     text-align: center;
     -webkit-transition-duration: 0.4s; /* Safari */
@@ -24,21 +24,23 @@
     text-decoration: none;
     overflow: hidden;
     cursor: pointer;
-  }
+    border-radius: 10px; /* Adjust the value to control the roundness */
+}
 
-.nav-select{
+.nav-select {
     text-align: center;
     border: 1px solid;
     font-size: 0.8em;
-    font-family:Arial black,sans-serif;
-    width:20%;
-    height:100%;
-    margin:0;
-    padding:0;
-    background-color:antiquewhite;
+    font-family: Arial black, sans-serif;
+    width: 20%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
     box-sizing: border-box;
-
+    border-radius: 10px; /* Adjust the value to control the roundness */
 }
+
 
 .xml-input{
     border:solid;
@@ -60,7 +62,7 @@
     height:20%;
     display:flex;
     flex-direction: column;
-    margin:10% 20% 0% 20%
+    margin:5% 20% 0% 20%
 
     /* margin: 10% 30% 0% 30%;  Top,right,bottom,left */
 
@@ -91,7 +93,7 @@
 body {
     overflow-x: hidden; /* Prevent horizontal scrolling */
     overflow-y: hidden;
-    background-image: linear-gradient(90deg, #020024 0%, #090979 15%, #00d4ff 100%);
+    background-color: #c5d5cb;
 
 
 }
@@ -104,8 +106,8 @@ body {
 #Readable-title {
     display: inline-block;
     cursor: pointer;
-
-    background-image: linear-gradient(#00d4ff, #00d4ff);
+    background-color: #c2b490;
+    background-image: linear-gradient(#7DF9FF, #7DF9FF);
     background-repeat: no-repeat;
 
     background-size: 10px 100%;
@@ -126,7 +128,20 @@ body {
     background-position: 100% 0;
     transition:allbackground-position 0.3s, 
     background-size 0.5s 0.3s;
+    
 }
+
+#Explain-title {
+    display: block; /* Change to block to allow centering */
+    cursor: pointer;
+    font-family: Arial, sans-serif; /* Change to a more professional font */
+    font-size: 0.8em; /* Adjust the font size as needed */
+    width: 40%;
+    margin: 2% auto; /* Center the element horizontally and vertically */
+    text-align: center;
+}
+
+
 
 ::placeholder {
     font-size: 25px;
