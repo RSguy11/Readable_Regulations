@@ -1,0 +1,43 @@
+.project {
+    width: 100%;
+    height: calc(100vh - 200px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    color: black;
+    background-color: #EEF0E5;
+  }
+  
+  .project h1 {
+    font-family: monospace;
+    margin-top: 50px;
+    font-size: 50px;
+  }
+  .project img {
+    width: 500px;
+  }
+  
+  .project p {
+    font-size: 20px;
+  }
+  
+  .project svg {
+    font-size: 50px;
+  }
+  
+  @media only screen and (max-width: 825px) {
+    .project img {
+      width: 300px;
+    }
+    .project h1 {
+      margin: 20px;
+      font-size: 40px;
+    }
+    .project p {
+      margin: 30px;
+      font-size: 15px;
+    }
+    
+  }

@@ -1,0 +1,122 @@
+.home {
+    width: 100%;
+    align-items: center;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #113C4A;
+  }
+
+  .homeHeader {
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #D1E4D1;
+    color: #113C4A;
+  }
+
+
+
+
+
+  .homeHeader img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 170px; /* Adjusted top positioning to bring the image closer to the top */
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .homeHeader h3 {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 80px;
+    color: #113C4A;
+    height: 30px;
+    margin-top: 20px; /* Adjusted margin-top to bring the text closer to the image */
+  }
+
+
+
+.homeHeader .prompt {
+  width: 40%;
+  font-size: 30px;
+}
+.prompt svg {
+  font-size: 60px;
+  margin: 5px;
+  color: #113C4A;
+}
+
+.upload {
+  height: calc(80vh - 100px);
+  font-size: 15px;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: #EEF0E5;
+  padding-top: 20px; /* Adjust this value to bring the content closer to the top */
+}
+
+.upload h1 {
+  height: 30px;
+  margin-top: -50px; /* Adjusted margin-top to bring the text closer to the image */
+  font-size: 30px;
+  color: #163020;
+}
+
+
+
+
+
+
+.list span {
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .homeHeader h2 {
+    font-size: 40px;
+    align-items: left;
+
+    color: #163020;
+
+  }
+
+  .homeHeader .prompt {
+    margin-top: 10px;
+    font-size: 20px;
+    width: 80%;
+  }
+
+  .skills {
+
+    text-align: left;
+  }
+  .list {
+    padding: 0;
+  }
+
+  .skills h2 {
+    font-size: 30px;
+  }
+}
+Github Button */
+.github-button {
+  color: #fff; /* Text color */
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+}
+
+.github-button:hover {
+  color: #0366d6; 
+}

@@ -1,0 +1,64 @@
+
+/* ABOUT */
+
+  
+  .aboutt{
+    width: 100%;
+    height: calc(100vh - 150px - 100px);
+    display: flex;
+    flex-direction: column;
+    background-color: #EEF0E5;
+  }
+  .aboutt h1{
+    color: #163020;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #EEF0E5;
+    padding: 0;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .aboutt img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: auto; /* Center the image horizontally and vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  .aboutt p{
+    width: 70%;
+    font-size: 22px;
+    margin: auto;
+    text-align: justify;
+    text-justify: inter-word;
+  }
+  
+  @media only screen and (max-width: 1450px) {    
+    .about{
+      height: auto;
+    }
+  }
+  
+  
+  @media only screen and (max-width: 825px) {    
+    .about h1{
+        font-size: 50px;
+        padding: 0;
+        padding-bottom: 25px;
+    }
+    .about p {
+      font-size: 18px;
+      width: 80%;
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+    }
+  }
+
+
+  
+  

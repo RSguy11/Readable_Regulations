@@ -1,0 +1,151 @@
+
+  .navbar {
+    height: 70px;
+    width: 100%;
+    /* flex makes elements line up side by side  */
+    display: flex;
+    /* push elements as far apart as possible */
+    justify-content: space-between;
+    /* line up links in center (vertically) */
+    align-items: center;
+    /* background-color: #f0f0f0; */
+    background-color: #B6C4B6;
+  }
+  
+  /* name */
+  .logo{
+    color: #163020;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-left: 1.5rem;
+
+  }
+  
+  /* the unordered list */
+  .links ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  /* the list elements */
+  .links li{
+    list-style: none;
+    padding-right: 1.5rem;
+  }
+  
+  /* the anchor tags */
+  .links a{
+    text-decoration: none;
+    color: #163020;
+    display: block;
+  }
+  
+  /* add bar under links when hovering */
+  .links a:hover{
+    text-decoration: underline;
+    text-decoration-color: #163020;
+    -o-transition:.4s;
+    -ms-transition:.4s;
+    -moz-transition:.4s;
+    -webkit-transition:.4s;
+    transition:.4s;
+  }
+  
+  .container svg{
+    transform: scale(1.2);
+  }
+  
+  .toggleButton{
+    /* style */
+    background-color: transparent;
+    border: none;
+    /* transform: scale(1.2); */
+    color: rgb(0, 0, 0);
+    padding-right: 1.5rem;
+    /* do not display on default */
+    cursor: pointer;
+    display: none;
+  }
+  
+  /* display navbar on click */
+  #open .links{
+    display: block;
+  }
+  
+  #open .toggleButton{
+    color: #163020
+  }
+  .logo {
+    display: block;
+    width: 50px; /* Adjust width and height according to your logo's dimensions */
+    height: 50px;
+    background-image: url('../Assets/pete.jpeg');
+    background-size: contain; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    margin-left: 10px; /* Adjust this value to move the logo to the right */
+
+  }
+  
+  #open .container{
+    background-color: #B6C4B6;
+  }
+  
+  /* media query for mobile */
+  @media (max-width: 825px){
+    /* remove links from display */
+    .links{
+      display: none;
+    }
+  
+    /* use active class to see if it should be shown
+      .navbar-links.active{
+        display: block;
+    }
+     */
+  
+    /* show toggle button, styles have already been applied */
+    .toggleButton{
+      display: block;
+    }
+  
+    .container{
+      /* flex makes elements line up side by side  */
+      height: 50px;
+      width: 100%;
+      display: flex;
+      /* push elements as far apart as possible */
+      justify-content: space-between;
+      /* line up links in center (vertically) */
+      align-items: center;
+    }
+  
+    .navbar{
+      flex-direction: column;
+    }
+  
+    .links{
+      width: 100%;
+      z-index: 800;
+    }
+  
+    .links ul{
+      /* margin: 20px; */
+      /* make the list display in a column */
+      flex-direction: column;
+      text-align: right;
+      background-color: #B6C4B6;
+    }
+  
+    .links li {
+        /* make mobile padding smaller */
+      padding: 1rem;
+    }
+  
+    .links a{
+      color: #163020;
+      text-decoration: underline;
+      text-decoration-color: #163020;
+      text-underline-offset: 4px;
+    }
+  }

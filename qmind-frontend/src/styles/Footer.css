@@ -1,0 +1,22 @@
+.footer {
+    width: 100%;
+    height: 100px;
+    background: #B6C4B6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .footerIcon svg {
+    color: #163020;
+    padding: 0 10px 0 10px;
+    font-size: 35px;
+    cursor: pointer;
+  }
+  
+  .footer footerlogo {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-align: center;
+  }
